@@ -46,7 +46,7 @@ h4 {
   margin: auto;
 }
 
-#logo-meilleursagents {
+#logo-realytics {
   position: relative;
   bottom: 17px;
   left: 50px;
@@ -161,7 +161,7 @@ h4 {
 
 #description-cgi {
   position: relative;
-  top: -25px;
+  top: 45px;
 }
 
 #description-axway {
@@ -177,17 +177,17 @@ h4 {
 
 #cgi-logo {
   position: relative;
-  top: -24px;
+  top: 11px;
 }
 
 #job-title-cgi {
   position: relative;
-  top: -50px;
+  top: 24px;
 }
 
 #job-date-cgi {
   position: relative;
-  top: -50px;
+  top: 24px;
 }
 
 .job-date {
